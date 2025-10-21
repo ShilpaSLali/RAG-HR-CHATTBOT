@@ -1,0 +1,12 @@
+
+Machine Learning (ML) is a core branch of Artificial Intelligence (AI) that focuses on creating systems capable of 
+automatically learning and improving from experience without being explicitly programmed. ML algorithms analyze 
+large volumes of data to uncover patterns, make predictions, and support intelligent decision-making processes. 
+
+The field of Machine Learning encompasses several learning paradigms such as supervised learning, unsupervised learning, 
+and reinforcement learning. Its applications are vast and transformative — powering recommendation engines, predictive 
+analytics, autonomous systems, natural language processing, and image recognition. 
+
+Python plays a pivotal role in the Machine Learning ecosystem due to its simplicity and rich set of libraries 
+like NumPy, Pandas, scikit-learn, TensorFlow, and PyTorch. These tools provide developers and researchers 
+with efficient frameworks to build, train, and deploy robust machine learning models across diverse domains.
